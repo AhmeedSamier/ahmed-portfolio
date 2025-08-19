@@ -1,0 +1,351 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+pnpm-lock.yaml
+
+# Production build files
+dist/
+build/
+
+# dotenv environment variables file
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# local .pnpm-store
+.pnpm-store/
+
+# misc
+.DS_Store
+.vscode/
+*.tgz
+
+# Editor directories and files
+.idea/
+.vs/
+*.swp
+*.swo
+
+# macOS specific files
+.DS_Store
+
+# npm package manager cache
+.npm/
+
+# pnpm store
+.pnpm-store/
+
+# yarn cache
+.yarn/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Test coverage
+coverage/
+
+# Next.js specific
+.next/
+
+# Vite specific
+.vite/
+
+# Vercel
+.vercel/
+
+# Netlify
+.netlify/
+
+# Others
+*.pem
+*.key
+*.crt
+*.csr
+*.pfx
+*.p12
+*.cer
+*.der
+*.jks
+*.kdb
+*.srl
+*.crl
+*.ocsp
+*.req
+*.ext
+*.vbs
+*.ps1
+*.sh
+*.bat
+*.cmd
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.lib
+*.a
+*.out
+*.bin
+*.pyc
+*.pyo
+*.pyd
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Local development server
+.parcel-cache/
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+
+# Playwright
+test-results/
+
+# Storybook
+storybook-static/
+
+# Lerna
+lerna-debug.log
+
+# Rush
+common/temp/
+common/changes/
+common/config/rush-plugin-manifest.json
+common/autoinstallers/
+
+# Turborepo
+.turbo/
+
+# Nx
+.nx/
+
+# Docker
+Dockerfile.local
+.dockerignore
+
+# VS Code specific
+.vscode/
+
+# Other common files
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+*.komodoworkspace
+*.atom-workspace
+*.code-workspace
+
+# Mac specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+pnpm-lock.yaml
+
+# Production build files
+dist/
+build/
+
+# misc
+.DS_Store
+.vscode/
+*.tgz
+
+# Editor directories and files
+.idea/
+.vs/
+*.swp
+*.swo
+
+# macOS specific files
+.DS_Store
+
+# npm package manager cache
+.npm/
+
+# pnpm store
+.pnpm-store/
+
+# yarn cache
+.yarn/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Test coverage
+coverage/
+
+# Next.js specific
+.next/
+
+# Vite specific
+.vite/
+
+# Vercel
+.vercel/
+
+# Netlify
+.netlify/
+
+# Others
+*.pem
+*.key
+*.crt
+*.csr
+*.pfx
+*.p12
+*.cer
+*.der
+*.jks
+*.kdb
+*.srl
+*.crl
+*.ocsp
+*.req
+*.ext
+*.vbs
+*.ps1
+*.sh
+*.bat
+*.cmd
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.lib
+*.a
+*.out
+*.bin
+*.pyc
+*.pyo
+*.pyd
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Local development server
+.parcel-cache/
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+
+# Playwright
+test-results/
+
+# Storybook
+storybook-static/
+
+# Lerna
+lerna-debug.log
+
+# Rush
+common/temp/
+common/changes/
+common/config/rush-plugin-manifest.json
+common/autoinstallers/
+
+# Turborepo
+.turbo/
+
+# Nx
+.nx/
+
+# Docker
+Dockerfile.local
+.dockerignore
+
+# VS Code specific
+.vscode/
+
+# Other common files
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+*.komodoworkspace
+*.atom-workspace
+*.code-workspace
+
+# Mac specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+
